@@ -140,8 +140,7 @@ Based on model findings:
 Bank_Churn_Project/
 │
 ├── churn_analysis.ipynb
-├── data/
-├── images/
+├── data/Churn_Modelling.csv
 └── README.md
 ```
 
@@ -150,3 +149,4 @@ Bank_Churn_Project/
 ## 📬 Contact
 
 If you would like to discuss this project or potential opportunities, feel free to connect with me.
+
