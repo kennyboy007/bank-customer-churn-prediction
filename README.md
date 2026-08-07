@@ -1,7 +1,7 @@
 # Bank Customer Churn Prediction
 
 ## 🚀 Live App
-**[Try the interactive predictor here](#)** *(add your Streamlit Cloud link once deployed)*
+**[Try the interactive predictor here](https://bank-customer-churn-prediction-uv2fyjroluyxf6kestdqyn.streamlit.app/)**
 
 Enter a customer's details and get a live churn prediction, plus model insights (ROC-AUC, feature importance, classification report) — built with the exact XGBoost pipeline described below.
 
